@@ -4,6 +4,8 @@
 ![](https://img.shields.io/badge/-pdfplumber-neon)
 ![](https://img.shields.io/badge/-Selenium-F7E987) ![](https://img.shields.io/badge/-EPU-3BC1A8)
 
+## 年報資料連結 ( 113年度 )
+https://drive.google.com/drive/folders/1Ho8ht1e0CAwJ4wnuhw_pJrpsoADw9JJF?usp=drive_link
 ## 使用模組
 | 名稱 | 功能 | 額外描述 |
 |------|------|:----:|
