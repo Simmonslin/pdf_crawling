@@ -4,10 +4,12 @@
 ![](https://img.shields.io/badge/-pdfplumber-neon)
 ![](https://img.shields.io/badge/-Selenium-F7E987) ![](https://img.shields.io/badge/-EPU-3BC1A8)
 
+## 年報資料連結 ( 113年度 )
+https://drive.google.com/drive/folders/1Ho8ht1e0CAwJ4wnuhw_pJrpsoADw9JJF?usp=drive_link
 ## 使用模組
 | 名稱 | 功能 | 額外描述 |
 |------|------|:----:|
-| Selenium | 從網站上爬取並下載上市櫃公司年報 | 網頁自動化工具
+| requests | 從網站上爬取並下載上市櫃公司年報 | 自動發送 get or post請求觸發網頁
 | pdfplumber | 爬取文件中的文字並匯總成csv檔 |  |
 | pandas | 資料整理 |  |
 
