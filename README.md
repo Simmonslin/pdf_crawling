@@ -15,8 +15,10 @@ https://drive.google.com/drive/folders/1Ho8ht1e0CAwJ4wnuhw_pJrpsoADw9JJF?usp=dri
 |------|------|:----:|
 | requests | 從網站上爬取並下載上市櫃公司年報 | 自動發送 get or post請求觸發網頁
 | bs4 | 解析 HTML 和 XML 文件 | 將複雜的網頁原始碼轉化為樹狀結構 | 搭配requests使用
-| pdfplumber | 爬取文件中的文字並匯總成csv檔 |  |
+| pdfplumber | 爬取pdf文件中的文字並匯總成 |  |
+| PyMuPDF | 功能跟Pdfplumber相近，但須爬取大量文件時，效率更好 | 以C語言作為基底 |
 | pandas | 資料整理 |  |
+| re | 正規表達式模組 |  |
 
 
 ## EPU數量統計結果 (放在上市櫃公司.xlsx檔裡)
@@ -24,4 +26,8 @@ https://drive.google.com/drive/folders/1Ho8ht1e0CAwJ4wnuhw_pJrpsoADw9JJF?usp=dri
 
 ## 2/3 更新 : 新增EPU_廣義統計結果 ( 經濟相關不確定性 --> 不確定性 )
 <a href="https://ppt.cc/fpgy2x"><img src="https://ppt.cc/fpgy2x@.png" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"></a>
+
+### pdfplumber v.s PyMuPDF
+<a href="https://ppt.cc/faKdKx"><img src="https://ppt.cc/faKdKx@.png" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"></a>
+
 
