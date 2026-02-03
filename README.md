@@ -13,3 +13,7 @@ https://drive.google.com/drive/folders/1Ho8ht1e0CAwJ4wnuhw_pJrpsoADw9JJF?usp=dri
 | pdfplumber | 爬取文件中的文字並匯總成csv檔 |  |
 | pandas | 資料整理 |  |
 
+
+## EPU數量統計結果 (放在上市櫃公司.xlsx檔裡)
+<a href="https://ppt.cc/fhxgBx"><img src="https://ppt.cc/fhxgBx@.png" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"></a>
+
