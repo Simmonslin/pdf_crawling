@@ -32,6 +32,7 @@ https://drive.google.com/drive/folders/1Ho8ht1e0CAwJ4wnuhw_pJrpsoADw9JJF?usp=dri
 
 ### 爬蟲 - 公開資訊觀測站年報下載 ( 連結 : https://reurl.cc/Xa0gM3 ) 
 <a href="https://ppt.cc/fLBNWx"><img src="https://ppt.cc/fLBNWx@.jpg" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"></a>
+<a href="https://ppt.cc/fWiihx"><img src="https://ppt.cc/fWiihx@.png" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"></a>
 | 網頁 | 網頁內容|資料取得 | 請求帶入 | 最終目標 |
 |:----:|------|------|:----:|:----:
 | 1 | 電子資料查詢表單 | 填入公司代號 + 資料年度 + 資料類型 + 資料細節說明 |公司代號 = co_id <br> 資料年度 = year <br> 資料類型 = F <br> 資料細節說明=F04 | 取得檔案名稱
