@@ -17,3 +17,6 @@ https://drive.google.com/drive/folders/1Ho8ht1e0CAwJ4wnuhw_pJrpsoADw9JJF?usp=dri
 ## EPU數量統計結果 (放在上市櫃公司.xlsx檔裡)
 <a href="https://ppt.cc/fhxgBx"><img src="https://ppt.cc/fhxgBx@.png" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"></a>
 
+## 2/3 更新 : 新增EPU_廣義統計結果 ( 經濟相關不確定性 --> 不確定性 )
+<a href="https://ppt.cc/fpgy2x"><img src="https://ppt.cc/fpgy2x@.png" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"></a>
+
