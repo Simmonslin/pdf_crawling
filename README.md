@@ -2,7 +2,11 @@
 ![Python](https://img.shields.io/badge/Python-3.11.9-blue)
 ![](https://img.shields.io/badge/-pandas-pink)
 ![](https://img.shields.io/badge/-pdfplumber-neon)
-![](https://img.shields.io/badge/-Selenium-F7E987) ![](https://img.shields.io/badge/-EPU-3BC1A8)
+![](https://img.shields.io/badge/-requests-F7E987) 
+![](https://img.shields.io/badge/-bs4-ABDADC)
+![](https://img.shields.io/badge/-PyMuPDF/fitz-ABDADC)
+![](https://img.shields.io/badge/-re-42B8C)
+![](https://img.shields.io/badge/-EPU-3BC1A8)
 
 ## 年報資料連結 ( 113年度 )
 https://drive.google.com/drive/folders/1Ho8ht1e0CAwJ4wnuhw_pJrpsoADw9JJF?usp=drive_link
