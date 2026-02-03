@@ -35,7 +35,7 @@ https://drive.google.com/drive/folders/1Ho8ht1e0CAwJ4wnuhw_pJrpsoADw9JJF?usp=dri
 | 網頁 | 網頁內容|資料取得 | 請求帶入 | 最終目標 |
 |:----:|------|------|:----:|:----:
 | 1 | 電子資料查詢表單 | 填入公司代號 + 資料年度 + 資料類型 + 資料細節說明 |公司代號 = co_id <br> 資料年度 = year <br> 資料類型 = F <br> 資料細節說明=F04 | 取得檔案名稱
-| 2 | 當年度股東會年報下載表單 | 填入 step + 公司代號 + 資料類型 + 檔案名稱 |  | 
+| 2 | 當年度股東會年報下載表單 | 填入 step + 公司代號 + 資料類型 + 檔案名稱 | step = 9 <br> 公司代號 = co_id <br> 資料年度 = year <br> 檔案名稱 = filename | 取得超連結 
 | 3 | pdfplumber | 爬取pdf文件中的文字並匯總成 |  |
 
 
