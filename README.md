@@ -31,7 +31,6 @@ https://drive.google.com/drive/folders/1Ho8ht1e0CAwJ4wnuhw_pJrpsoADw9JJF?usp=dri
 <a href="https://ppt.cc/faKdKx"><img src="https://ppt.cc/faKdKx@.png" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"></a>
 
 ### 爬蟲 - 公開資訊觀測站年報下載 ( 連結 : https://reurl.cc/Xa0gM3 ) 
-<a href="https://ppt.cc/fLBNWx"><img src="https://ppt.cc/fLBNWx@.jpg" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"></a>
 <a href="https://ppt.cc/fWiihx"><img src="https://ppt.cc/fWiihx@.png" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"></a>
 | 網頁 | 網頁內容|資料取得 | 請求帶入 | 最終目標 |
 |:----:|------|------|:----:|:----:
