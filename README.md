@@ -30,7 +30,15 @@ https://drive.google.com/drive/folders/1Ho8ht1e0CAwJ4wnuhw_pJrpsoADw9JJF?usp=dri
 ### pdfplumber v.s PyMuPDF
 <a href="https://ppt.cc/faKdKx"><img src="https://ppt.cc/faKdKx@.png" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"></a>
 
-### 爬蟲 - 公開資訊觀測站年報下載 ( 連結 : https://reurl.cc/Xa0gM3 )
+### 爬蟲 - 公開資訊觀測站年報下載 ( 連結 : https://reurl.cc/Xa0gM3 ) 
+| 網頁 | 資料取得 | 請求帶入 |
+|------|------|:----:|
+| 電子資料查詢表單 | 填入公司代號 + 資料年度 + 資料類型 + 資料細節說明 |公司代號 = c0_id  資料年度 = year  資料類型 = F 資料細節說明=F04 
+| bs4 | 解析 HTML 和 XML 文件 | 將複雜的網頁原始碼轉化為樹狀結構 | 搭配requests使用
+| pdfplumber | 爬取pdf文件中的文字並匯總成 |  |
+| PyMuPDF | 功能跟Pdfplumber相近，但須爬取大量文件時，效率更好 | 以C語言作為基底 |
+| pandas | 資料整理 |  |
+| re | 正規表達式模組 |  |
 <a href="https://ppt.cc/fLBNWx"><img src="https://ppt.cc/fLBNWx@.jpg" border="0" alt="PPT.cc縮圖服務" title="PPT.cc縮圖服務"></a>
 
 
