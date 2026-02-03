@@ -4,8 +4,8 @@
 ![](https://img.shields.io/badge/-pdfplumber-neon)
 ![](https://img.shields.io/badge/-requests-F7E987) 
 ![](https://img.shields.io/badge/-bs4-ABDADC)
-![](https://img.shields.io/badge/-PyMuPDF/fitz-ABDADC)
-![](https://img.shields.io/badge/-re-42B8C)
+![](https://img.shields.io/badge/-PyMuPDF/fitz-FAD691)
+![](https://img.shields.io/badge/-re-4D2B8C)
 ![](https://img.shields.io/badge/-EPU-3BC1A8)
 
 ## 年報資料連結 ( 113年度 )
